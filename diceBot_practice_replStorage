@@ -1,0 +1,24 @@
+import java.util.Scanner;  // Import the Scanner class
+import java.util.Random;
+
+class DiceBot 
+  {
+  public static void main(String[] args)
+  {
+    Scanner dice = new Scanner(System.in);  // Create a Scanner object
+    System.out.println("How many sides are on the dice?");
+    int sides = dice.nextInt();  // Read user input
+    
+    System.out.println("You are rolling d" + sides + "'s");  // Output user input
+    
+    System.out.println("How many d" + sides + "'s' are you rolling?");
+    int number = dice.nextInt();  
+
+    Random rand = new Random(); //instance of random class     
+      int upperbound = sides + 1;
+      int results = rand.nextInt(upperbound);
+    
+    System.out.println("results: " + results);
+    
+  }
+}
