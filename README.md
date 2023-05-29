@@ -16,9 +16,13 @@ artacapella@gmail.com
 
 # Side Projects
 [NPC Generator](https://github.com/ArtAcapella/NPC_Generator)
+
 [Combat System](https://github.com/ArtAcapella/CombatSystem/blob/main/README.md)
+
 [Hacking Systenm](https://github.com/ArtAcapella/HackingRPGSystem/blob/main/README.md)
+
 [Cypher](https://github.com/ArtAcapella/Cypher/tree/main)
+
 [Insertion Sort](https://github.com/ArtAcapella/InsertionSort/tree/main)
 
 
