@@ -13,6 +13,8 @@ artacapella@gmail.com
 # Main Projects
 [BREACH rpg](https://github.com/ArtAcapella/RPG_Group_Project)
 
+Demo of an RPG of my design revolving around classic cyberpunk tropes and dystopia philosophies. Feel free to take a look!
+
 
 # Side Projects
 [NPC Generator](https://github.com/ArtAcapella/NPC_Generator)
